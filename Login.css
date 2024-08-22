@@ -1,0 +1,23 @@
+/* Login Page Styles */
+.login-container {
+    max-width: 400px; /* Reduced width */
+    margin: 2rem auto;
+    padding: 2rem;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .login-container h2 {
+    margin-bottom: 1rem;
+  }
+  
+  .login-container form {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .login-container input {
+    margin-bottom: 1rem;
+  }
+  
